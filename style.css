@@ -1,0 +1,21 @@
+nav {
+	position: fixed;
+	top: 0;
+	right: 0;
+
+	padding-right: 5px;
+	padding-top: 5px;
+	z-index: 99999;
+}
+
+.title {
+	font-family: fantasy;
+}
+
+a:hover{
+	color:yellow;
+}
+
+nav > a {
+	margin-right: 5px;
+}
